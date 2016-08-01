@@ -1,0 +1,25 @@
+DOS
+EMAIL ADDRESS FOUND
+STRING REPLACEMENT
+URI BLOCKING
+CAPTCHA
+BRUTFORCE
+PREDICTABLE RESOURCE BLOCKING
+IP BLACKLIST
+INTERNAL IP DISCLOSER
+PATH TRAVERSAL
+MISSING SECURE FLAG FROM SSL
+Application Error Message
+
+
+<option value="1">Threshold Based DOS/DDOS</option>
+<option value="2">EMAIL ADDRESS FOUND</option>
+<option value="3">STRING REPLACEMENT</option>
+<option value="4">URI BLOCKING</option>
+<option value="5">CAPTCHA</option>
+<option value="6">BRUTFORCE</option>
+<option value="7">PREDICTABLE RESOURCE BLOCKING</option>
+<option value="8">IP BLACKLIST</option>
+<option value="9">INTERNAL IP DISCLOSER</option>
+<option value="10">PATH TRAVERSAL</option>
+<option value="11">MISSING SECURE FLAG FROM SSL</option>
