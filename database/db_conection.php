@@ -6,7 +6,7 @@ ini_set('max_execution_time', 600);
 
 	
 
-$dbcon = new mysqli("sql202.cuccfree.org","cucc0_17702020","yashpatel2554","cucc0_17702020_custom_tool");
+$dbcon = new mysqli("sql.com","c20","ya***4","db_tool");
 
 
 
